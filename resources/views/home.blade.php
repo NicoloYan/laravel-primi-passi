@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>Hello World!</h1>
+    <h2>
+        Questa è la prima pagina fatta con Laravel da {{ $myName }}
+    </h2>
 </body>
 </html>
